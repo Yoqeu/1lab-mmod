@@ -1,0 +1,34 @@
+THEORETICAL STATS: 
+terminal is free, 0 in queue | p =  0.04914894027293833
+terminal is busy, 0 in queue | p =  0.09834182890681226
+terminal is busy, 1 in queue | p =  0.2295156341928757
+terminal is busy, 2 in queue | p =  0.30604070116453014
+terminal is broken, 1 in queue | p =  0.01639336494590846
+terminal is broken, 2 in queue | p =  0.30057007027943616
+Probability of denial:  0.6066107714439664
+Average queue length:  1.4591305420267169
+Average processing:  0.6338981642642181
+Relative throughput:  0.39338922855603364
+Absolute throрugput 0.7867784571120673
+Average processing time:  0.39338922855603364
+Average waiting time:  0.7295652710133584
+Average time in system:  1.122954499569392
+_______________________________
+EMPIRICAL STATS: 
+Queries processed: 309
+Quries dropped: 700
+terminal is free, 0 in queue | p =  0.035497084000517376
+terminal is busy, 0 in queue | p =  0.09279847291177501
+terminal is busy, 1 in queue | p =  0.2440826153984394
+terminal is busy, 2 in queue | p =  0.29526039134207116
+terminal is broken, 1 in queue | p =  0.02934817204183162
+terminal is broken, 2 in queue | p =  0.29512692495649645
+Probability of denial:  0.5903873162985676
+Average queue length:  1.4542054200374062
+Average processing:  0.6321414796522855
+Relative throughput:  0.40961268370143245
+Absolute throрugput 0.8192253674028649
+Average processing time:  0.40961268370143245
+Average waiting time:  0.7271027100187031
+Average time in system:  1.1367153937201355
+Model is working correctly
